@@ -1,0 +1,198 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f3d50a77-3de6-40a4-8981-4f0500943bc1")
+	(paper "A5")
+	(lib_symbols)
+	(sheet
+		(at 21.59 22.86)
+		(size 27.94 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "26a9fe08-b75f-4e9e-aaca-bcef58c58cd1")
+		(property "Sheetname" "Framework Connector"
+			(at 21.59 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fw.kicad_sch"
+			(at 21.59 43.7646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "framework_scope"
+				(path "/f3d50a77-3de6-40a4-8981-4f0500943bc1"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 22.86)
+		(size 29.21 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2a114595-17a0-4afe-896a-03cd41528a92")
+		(property "Sheetname" "Artix Config and Power"
+			(at 129.54 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "artix_cfg_pwr.kicad_sch"
+			(at 129.54 43.7646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "framework_scope"
+				(path "/f3d50a77-3de6-40a4-8981-4f0500943bc1"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 59.69 22.86)
+		(size 27.94 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4cbd0ef6-7ac4-4bda-a80f-c823b9c97ba8")
+		(property "Sheetname" "Power"
+			(at 59.69 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 59.69 43.7646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "framework_scope"
+				(path "/f3d50a77-3de6-40a4-8981-4f0500943bc1"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 95.25 22.86)
+		(size 29.21 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8d7899dd-cbbb-49f5-835a-190a61895e4b")
+		(property "Sheetname" "Artix"
+			(at 95.25 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "artix.kicad_sch"
+			(at 95.25 43.7646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "framework_scope"
+				(path "/f3d50a77-3de6-40a4-8981-4f0500943bc1"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
