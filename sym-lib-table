@@ -3,4 +3,5 @@
 	(lib (name "framework_scope") (type "KiCad") (uri "${KIPRJMOD}/framework_scope.kicad_sym") (options "") (descr ""))
 	(lib (name "TPS56A37RPAR") (type "KiCad") (uri "${KIPRJMOD}/symbols/TPS56A37RPAR.kicad_sym") (options "") (descr ""))
 	(lib (name "LM3881MM") (type "KiCad") (uri "${KIPRJMOD}/symbols/LM3881MM.kicad_sym") (options "") (descr ""))
+	(lib (name "HMCAD1511") (type "KiCad") (uri "${KIPRJMOD}/symbols/HMCAD1511.kicad_sym") (options "") (descr ""))
 )
