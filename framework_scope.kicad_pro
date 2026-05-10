@@ -771,7 +771,7 @@
         "uuid": "f3d50a77-3de6-40a4-8981-4f0500943bc1"
       }
     ],
-    "used_designators": "#PWR30-31",
+    "used_designators": "U15,R14-16,C150-161,#PWR102-104,#PWR151-152,#PWR154-155,#PWR163-164",
     "variants": []
   },
   "sheets": [
@@ -797,7 +797,15 @@
     ],
     [
       "2d77af83-63b5-48d7-8d63-6c2be3fe78b5",
-      "ADC"
+      "ADC 1"
+    ],
+    [
+      "571e8bb7-cb65-4b4b-82ca-dae5203457f0",
+      "ADC 2"
+    ],
+    [
+      "95a17a70-83cc-421a-8537-7aa834a4c2d7",
+      "Clock"
     ]
   ],
   "text_variables": {},
